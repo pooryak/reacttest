@@ -1,0 +1,20 @@
+.main {
+    width: 60vw;
+}
+
+.tag {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.footerbutton {
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #0d0d0c !important;
+    color: #fff;
+}
+
+.footerbutton:hover {
+    color: #049928;
+    border-bottom: 2px solid #7079db;
+}
